@@ -1,0 +1,274 @@
+{
+ "int1c": {
+  "file": "slots/int1c.png",
+  "ext": "png",
+  "s": 1,
+  "x": 0,
+  "y": -43.125,
+  "kb": 353
+ },
+ "int1a": {
+  "file": "slots/int1a.png",
+  "ext": "png",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 448
+ },
+ "int1d": {
+  "file": "slots/int1d.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": -5,
+  "kb": 76
+ },
+ "int1b": {
+  "file": "slots/int1b.jpg",
+  "ext": "jpg",
+  "s": 1.0766779227493453,
+  "x": -3.833896137467263,
+  "y": 10.670183016217422,
+  "kb": 135
+ },
+ "ej_kv_s1": {
+  "file": "slots/ej_kv_s1.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": -23.846153846153847,
+  "y": 0,
+  "kb": 114
+ },
+ "ej_kv_s2": {
+  "file": "slots/ej_kv_s2.jpg",
+  "ext": "jpg",
+  "s": 1.5133416626880942,
+  "x": 3.4028377139890753,
+  "y": -4.230924600506423,
+  "kb": 68
+ },
+ "ej_kv_p1": {
+  "file": "slots/ej_kv_p1.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 1.893939393939394,
+  "y": 0,
+  "kb": 87
+ },
+ "ej_kv_p2": {
+  "file": "slots/ej_kv_p2.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 3.3815914614815594,
+  "kb": 51
+ },
+ "ej_kv_p3": {
+  "file": "slots/ej_kv_p3.jpg",
+  "ext": "jpg",
+  "s": 1.0367781146572497,
+  "x": 0.5373261627796392,
+  "y": 9.330912738379405,
+  "kb": 62
+ },
+ "ej_logo1": {
+  "file": "slots/ej_logo1.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 89
+ },
+ "ej_logo2": {
+  "file": "slots/ej_logo2.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 78
+ },
+ "ej_logo3": {
+  "file": "slots/ej_logo3.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 75
+ },
+ "ej_logo4": {
+  "file": "slots/ej_logo4.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 78
+ },
+ "ej_logo6": {
+  "file": "slots/ej_logo6.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 79
+ },
+ "magCover": {
+  "file": "slots/magCover.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 464
+ },
+ "mag3": {
+  "file": "slots/mag3.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 251
+ },
+ "ej_cover": {
+  "file": "slots/ej_cover.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": -25.954198473282442,
+  "kb": 355
+ },
+ "ej_logobanner": {
+  "file": "slots/ej_logobanner.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 1.8292682926829267,
+  "kb": 218
+ },
+ "ej_carbon1": {
+  "file": "slots/ej_carbon1.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 321
+ },
+ "mag4": {
+  "file": "slots/mag4.jpg",
+  "ext": "jpg",
+  "s": 1.01569709977564,
+  "x": 0.09604868158186697,
+  "y": -117.93921108349376,
+  "kb": 251
+ },
+ "mag6": {
+  "file": "slots/mag6.jpg",
+  "ext": "jpg",
+  "s": 1.0619894192145016,
+  "x": 0.01653815061795838,
+  "y": 89.02990292672172,
+  "kb": 251
+ },
+ "ej_logo5": {
+  "file": "slots/ej_logo5.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 294
+ },
+ "ej_info_sll": {
+  "file": "slots/ej_info_sll.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": -1.7891046323366684,
+  "kb": 296
+ },
+ "ej_info_green": {
+  "file": "slots/ej_info_green.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 1.7891046323366684,
+  "kb": 276
+ },
+ "ej_info_3": {
+  "file": "slots/ej_info_3.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 317
+ },
+ "ej_carbon2": {
+  "file": "slots/ej_carbon2.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 370
+ },
+ "pr_timeline2": {
+  "file": "slots/pr_timeline2.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 96
+ },
+ "pr_timeline3": {
+  "file": "slots/pr_timeline3.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 137
+ },
+ "pr_news1": {
+  "file": "slots/pr_news1.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 314
+ },
+ "pr_news2": {
+  "file": "slots/pr_news2.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 248
+ },
+ "pr_news3": {
+  "file": "slots/pr_news3.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 175
+ },
+ "pr_news4": {
+  "file": "slots/pr_news4.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 125
+ },
+ "thesis_fb1": {
+  "file": "slots/thesis_fb1.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 216
+ },
+ "adCover": {
+  "file": "slots/adCover.jpg",
+  "ext": "jpg",
+  "s": 1,
+  "x": 0,
+  "y": 0,
+  "kb": 231
+ }
+}
